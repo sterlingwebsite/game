@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.weather-container {
+    text-align: center;
+    margin-top: 50px;
+}
+#cityInput {
+    margin-bottom: 10px;
+}
